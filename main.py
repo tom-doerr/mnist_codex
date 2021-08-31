@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-The input prompt to codex was:
+The input prompt to codex in the docstring was:
 "Pretrained mnist image classifier using pytorch."
 
 However the model that is run is not pretrained.
